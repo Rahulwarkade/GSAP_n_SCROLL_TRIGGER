@@ -1,0 +1,87 @@
+JavaScript
+/*
+
+difference b/w compiler & interpreter
+
+alert("allert");
+prompt("do I love js");
+confirm("please confirm you love JavaScript");
+console.log("I love JavaScript");
+console.warn("You have to love JavaScript");
+console.error("don't you love JavaScript");
+
+
+varible
+Data types
+primptive data type
+refference data type
+
+truthy and falsy
+
+Truthy 
+    false ,'',null,undefined,NaN,0
+
+
+conditional statement
+if,else-if,else
+loops
+for,while,foreach
+
+ARRAY'S
+push,pop,shift,unshift
+
+functions
+EcmaScript
+es5
+var
+es6
+let,const
+
+es5-function types
+function statement
+function expresion
+function anonomus
+es6-fucntion types
+fat arrow function
+fat arrow function with one parameters
+fat arrow function with emplic return
+
+object
+function
+method
+properties
+dom-manipulation
+selction
+document.querySelector()
+changing text and content of html
+css changes
+addEventListner
+
+DOM manipulation
+1 selection 
+var h1 = document. querySelector("h1")
+
+2 text and html change
+h1.addtextcontent = " hello "
+h1.innerHTML = "<i> hey</i>"
+
+3 css change
+h1.style.color = "red"
+
+4 adding event Listner
+
+
+setTimeout
+clearTimeout
+pointer Event : none,initial
+display: none,initial
+
+
+event bubbling
+
+gsap
+scrollTrigger
+Locomotive
+Locomotive scrollTrigger
+gsap.to(element,properties);
+*/
